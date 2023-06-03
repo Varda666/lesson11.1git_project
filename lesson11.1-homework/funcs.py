@@ -1,13 +1,14 @@
+def addition():
+    a = int(input())
+    b = int(input())
+    c = a + b
+    print(c)
 
-a = int(input())
-b = int(input())
-c = a + b
-print(c)
-
-d = int(input())
-e = int(input())
-f = a - b
-print(f)
+def subtraction():
+    d = int(input())
+    e = int(input())
+    f = d - e
+    print(f)
 
 
 
